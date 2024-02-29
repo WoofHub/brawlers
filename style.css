@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    font-family: "Lilita One";
+    margin: 30px;
+    margin-top: 60px;
+    margin-bottom: 130px;
+}
+
+.buttons {
+    display: flex;
+    gap: 20px;
+}
+
+.button {
+    width: max-content;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: black;
+    border: 1px solid grey;
+    font-size: 1.2em;
+    color: white;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: rgb(63, 63, 63);
+}
+
+
+.button:active {
+    background-color: rgb(85, 85, 85);
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+.column {
+    flex-direction: column;
+    gap: 80px;
+}
+
+.category-holder {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-left: 15px;
+}
+
+.category-name {
+    font-size: 3.5em;
+}
+
+.brawlers-holder {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.info-panel {
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    transition: 0.3s;
+    border: 3px solid gray;
+    display: flex;
+    flex-direction: column;
+}
+
+.info-panel {
+    border-radius: 20px;
+}
+
+.info-panel-splash {
+    width: 100%;
+    height: 250px;
+    position: relative;
+}
+
+.info-panel-body {
+    height: max-content;
+    color: white;
+    background-color: black;
+    padding: 25px;
+    padding-top: 15px;
+    font-size: 1.1em;
+    flex: 1;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transition: 0.3s;
+}
+
+.stats-info {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.info-stack {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.info-stack img {
+    height: 100%;
+    aspect-ratio: 1;
+}
+
+.info-stack p {
+    font-size: 1.1em;
+}
+
+.collapsed {
+    height: max-content;
+}
+
+.collapsed .info-panel-body {
+    height: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.collapsed .info-panel-body * {
+    display: none;
+}
+
+.splash-bg {
+    width: 100%;
+    height: 100%;
+    border-radius: 17px;
+}
+
+.info-panel-splash:hover .item-img {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.item-img-div {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+  
+.item-img {
+    width: auto;
+    height: 500px;
+    padding-top: 30px;
+    transition: 0.3s;
+    position: absolute;
+}
+
+.splash-linear-gradient::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%);
+    pointer-events: none;
+}
+
+.collapsed .splash-linear-gradient::after {
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+}
+
+.item-header-name {
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    bottom: 0;
+    top: 180px;
+    left: 20px;
+}
+  
+.info-panel-body h4 {
+    margin-bottom: 15px;
+}
+
+.starter_bg {
+    background-color: #94d7f3;
+}
+
+.rare_bg {
+    background-color: #2edd1b;
+}
+
+.super_rare_bg {
+    background-color: #0087fa;
+}
+
+.epic_bg {
+    background-color: #b116ec;
+}
+
+.mythic_bg {
+    background-color: #fe0021;
+}
+
+.legendary_bg {
+    background-color: #fff11e;
+}
+
+.invisible {
+    display: none;
+}

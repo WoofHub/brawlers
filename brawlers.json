@@ -1,0 +1,704 @@
+{
+    "shelly": {
+        "name": "Shelly",
+        "rarity": "Starter",
+        "year": 2017,
+        "scale": 0.75, "top": -70,
+        "description": "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight...",
+        "attack": "Buckshot", "super": "Super Shell", "health": 7400,
+        "model": "https://media.brawltime.ninja/brawlers/shelly/model.png?size=400"
+    },
+    "nita": {
+        "name": "Nita",
+        "rarity": "Rare",
+        "year": 2017,
+        "scale": 0.6, "top": -100,
+        "description": "Nita is a ferocious child who never backs down from a fight! The teddy bear on her head serves as a warning to others: don't poke the bear.",
+        "attack": "Rupture", "super": "Overbearing", "health": 8000,
+        "model": "https://media.brawltime.ninja/brawlers/nita/model.png?size=400"
+    },
+    "colt": {
+        "name": "Colt",
+        "rarity": "Rare",
+        "year": 2017,
+        "scale": 0.67, "top": -90,
+        "description": "Colt is the star attraction at Starr Park! His good looks, charisma and gun twirling tricks win over any audience, except maybe Shelly.",
+        "attack": "Six-Shooters", "super": "Bullet Storm", "health": 5600,
+        "model": "https://media.brawltime.ninja/brawlers/colt/model.png?size=400"
+    },
+    "bull": {
+        "name": "Bull",
+        "rarity": "Rare",
+        "year": 2017,
+        "scale": 0.8, "top": -70,
+        "description": "Bull isn't as carefree as he was in his youth, but just because his rowdy days are behind him doesn't mean he won't still crush someone who's asking for it.",
+        "attack": "Double-Barrel", "super": "Bulldozer", "health": 10000,
+        "model": "https://media.brawltime.ninja/brawlers/bull/model.png?size=400"
+    },
+    "brock": {
+        "name": "Brock",
+        "rarity": "Rare",
+        "year": 2017,
+        "scale": 0.6, "top": -95,
+        "description": "Brock is a smack-talking video game enthusiast. His big attitude hides a more introverted personality, but he'll still do whatever it takes to win!",
+        "attack": "Rockin' Rocket", "super": "Rocket Rain", "health": 4800,
+        "model": "https://media.brawltime.ninja/brawlers/brock/model.png?size=400"
+    },
+    "el primo": {
+        "name": "El Primo",
+        "rarity": "Rare",
+        "year": 2017,
+        "scale": 0.8, "top": -90, "left": 15,
+        "description": "El Primo is always in the spotlight and that's right where he wants to be! There's no audience he can't win over, except maybe his fellow performers...",
+        "attack": "Fists of Fury", "super": "Flying Elbow Drop", "health": 12000,
+        "model": "https://media.brawltime.ninja/brawlers/el_primo/model.png?size=400"
+    },
+    "barley": {
+        "name": "Barley",
+        "rarity": "Rare",
+        "year": 2017,
+        "scale": 0.75, "top": -70, "left": -20,
+        "description": "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.",
+        "attack": "Undiluted", "super": "Last Call", "health": 4800,
+        "model": "https://media.brawltime.ninja/brawlers/barley/model.png?size=400"
+    },
+    "poco": {
+        "name": "Poco",
+        "rarity": "Rare",
+        "year": 2017,
+        "scale": 0.6, "top": -90,
+        "description": "Poco believes music can change people's lives. He's so enthusiastic about it that he never stops playing, even after people ask him to!",
+        "attack": "Power Chord", "super": "Encore", "health": 7400,
+        "model": "https://media.brawltime.ninja/brawlers/poco/model.png?size=400"
+    },
+    "jessie": {
+        "name": "Jessie",
+        "rarity": "Super Rare",
+        "year": 2017,
+        "scale": 0.65, "top": -110,
+        "description": "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!",
+        "attack": "Shock Rifle", "super": "Scrappy!", "health": 6000,
+        "model": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9SQWNNc2duS3FSVjh4ZlRZRFo1RS5wbmcifQ:supercell:HkMlyxGGPqbWjLMIjmRV2L3rraEt-zQVosDbx7N1dq8?width=800"
+    },
+    "dynamike": {
+        "name": "Dynamike",
+        "rarity": "Super Rare",
+        "year": 2017,
+        "scale": 0.57, "top": -110,
+        "description": "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!",
+        "attack": "Short Fuse", "super": "Big Barrel o' Boom", "health": 5600,
+        "model": "https://media.brawltime.ninja/brawlers/dynamike/model.png?size=400"
+    },
+    "rico": {
+        "name": "Rico",
+        "rarity": "Super Rare",
+        "year": 2017,
+        "scale": 0.77, "top": -110, "left": -75,
+        "description": "Rico is definitely a real space bounty hunter who tracks down the galaxy's most wanted criminals, not a gumball machine pretending to be cool.",
+        "attack": "Bouncy Bullets", "super": "Trick Shot", "health": 5600,
+        "model": "https://media.brawltime.ninja/brawlers/rico/model.png?size=400"
+    },
+    "bo": {
+        "name": "Bo",
+        "rarity": "Epic",
+        "year": 2017,
+        "scale": 0.75, "top": -65, "left": 0,
+        "description": "Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop.",
+        "attack": "Eagle-Eyed", "super": "Catch a Fox", "health": 7200,
+        "model": "https://media.brawltime.ninja/brawlers/bo/model.png?size=400"
+    },
+    "mortis": {
+        "name": "Mortis",
+        "rarity": "Mythic",
+        "year": 2017,
+        "scale": 0.7, "top": -85, "left": -120,
+        "description": "Mortis had grand designs built around being a mortician and a vampire, but the fact that nobody is dying at Starr Park has put a huge damper on his plans.",
+        "attack": "Shovel Swing", "super": "Life Blood", "health": 7600,
+        "model": "https://media.brawltime.ninja/brawlers/mortis/model.png?size=400"
+    },
+    "spike": {
+        "name": "Spike",
+        "rarity": "Legendary",
+        "year": 2017,
+        "scale": 0.5,
+        "description": "Most people think Spike is Colt and Shelly's cute sidekick at the Ranger Ranch. Nobody could begin to guess the depths of his trauma",
+        "attack": "Needle Grenade", "super": "Stick Around!", "health": 4800,
+        "model": "https://media.brawltime.ninja/brawlers/spike/model.png?size=400"
+    },
+    "crow": {
+        "name": "Crow",
+        "rarity": "Legendary",
+        "year": 2017,
+        "scale": 0.63, "top": -100, "left": 0,
+        "description": "Crow trusts no one and keeps to himself. The most anyone knows about him is that he's often found at the diner, hanging out with Bull and Bibi.",
+        "attack": "Switchblade", "super": "Swoop", "health": 4800,
+        "model": "https://media.brawltime.ninja/brawlers/crow/model.png?size=400"
+    },
+    "piper": {
+        "name": "Piper",
+        "rarity": "Epic",
+        "year": 2017,
+        "scale": 0.7, "top": -90,
+        "description": "Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past.",
+        "attack": "Gunbrella", "super": "Poppin'", "health": 4800,
+        "model": "https://media.brawltime.ninja/brawlers/piper/skins/Piper/Default.png?size=400"
+    },
+    "pam": {
+        "name": "Pam",
+        "rarity": "Epic",
+        "year": 2017,
+        "scale": 0.7, "top": -85, "left": -80,
+        "description": "Pam handles an enormous workload at the junkyard and always gets it done! It's just a shame it keeps her away from her daughter, Jessie...",
+        "attack": "Scrapstorm", "super": "Mama's Kiss", "health": 9600,
+        "model": "https://media.brawltime.ninja/brawlers/pam/model.png?size=400"
+    },
+    "tara": {
+        "name": "Tara",
+        "rarity": "Mythic",
+        "year": 2017,
+        "scale": 0.6, "top": -105, "left": 27,
+        "description": "Tara has seen in the cards that great difficulties lie ahead! But don't despair... she has a terrific selection of magical trinkets for sale to help with that.",
+        "attack": "Triple Tarot", "super": "Gravity", "health": 6200,
+        "model": "https://media.brawltime.ninja/brawlers/tara/model.png?size=400"
+    },
+    "darryl": {
+        "name": "Darryl",
+        "rarity": "Super Rare",
+        "year": 2017,
+        "scale": 0.57, "top": -110, "left": -175,
+        "description": "Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?",
+        "attack": "Double Deuce", "super": "Barrel Roll", "health": 10600,
+        "model": "https://media.brawltime.ninja/brawlers/darryl/model.png?size=400"
+    },
+    "penny": {
+        "name": "Penny",
+        "rarity": "Super Rare",
+        "year": 2018,
+        "scale": 0.6, "top": -110, "left": 0,
+        "description": "Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!",
+        "attack": "Plunderbuss", "super": "Old Lobber", "health": 6400,
+        "model": "https://media.brawltime.ninja/brawlers/penny/model.png?size=400"
+    },
+    "frank": {
+        "name": "Frank",
+        "rarity": "Epic",
+        "year": 2018,
+        "scale": 0.7, "top": -110, "left": -50,
+        "description": "Frank is a good-natured giant who helps out at the mortuary by day and spins tunes at the Club by night. He doesn't get a lot of sleep, and it shows.",
+        "attack": "Hammer Hit", "super": "Stunning Blow", "health": 14000,
+        "model": "https://media.brawltime.ninja/brawlers/frank/model.png?size=400"
+    },
+    "leon": {
+        "name": "Leon",
+        "rarity": "Legendary",
+        "year": 2018,
+        "scale": 0.57, "top": -110,
+        "description": "Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, Nita, seems to get through to him.",
+        "attack": "Spinner Blades", "super": "Smoke Bomb", "health": 6800,
+        "model": "https://media.brawltime.ninja/brawlers/leon/model.png?size=400"
+    },
+    "gene": {
+        "name": "Gene",
+        "rarity": "Mythic",
+        "year": 2019,
+        "scale": 0.57, "top": -110, "left": -37,
+        "description": "Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot.",
+        "attack": "Smoke Blast", "super": "Magic Hand", "health": 7200,
+        "model": "https://media.brawltime.ninja/brawlers/gene/model.png?size=400"
+    },
+    "carl": {
+        "name": "Carl",
+        "rarity": "Super Rare",
+        "year": 2019,
+        "scale": 0.55, "top": -110, "left": -37,
+        "description": "Carl is a mining robot who's fascinated by rocks and stones of all kinds. Don't let him get started on his latest obsession: the effects of Gems!",
+        "attack": "Pickaxe", "super": "Tailspin", "health": 8000,
+        "model": "https://media.brawltime.ninja/brawlers/carl/model.png?size=400"
+    },
+    "rosa": {
+        "name": "Rosa",
+        "rarity": "Rare",
+        "year": 2019,
+        "scale": 0.7, "top": -90,
+        "description": "Rosa is a botanist with a strong connection to plants. She's also a boxer, and won't hesitate to punch one of her specimens if it goes out of control!",
+        "attack": "Hands of Stone", "super": "Strong Stuff", "health": 10000,
+        "model": "https://media.brawltime.ninja/brawlers/rosa/model.png?size=400"
+    },
+    "bibi": {
+        "name": "Bibi",
+        "rarity": "Epic",
+        "year": 2019,
+        "scale": 0.57, "top": -110, "left": -30,
+        "description": "Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!",
+        "attack": "Three Strikes", "super": "Spitball", "health": 9600,
+        "model": "https://media.brawltime.ninja/brawlers/bibi/model.png?size=400"
+    },
+    "tick": {
+        "name": "Tick",
+        "rarity": "Super Rare",
+        "year": 2019,
+        "scale": 0.5, "top": -110, "left": -185,
+        "description": "Tick follows Penny around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!",
+        "attack": "Minimines", "super": "Headfirst", "health": 4400,
+        "model": "https://media.brawltime.ninja/brawlers/tick/model.png?size=400"
+    },
+    "8-bit": {
+        "name": "8-Bit",
+        "rarity": "Super Rare",
+        "year": 2019,
+        "scale": 0.5, "top": -140, "left": -135,
+        "description": "An arcade game famous for its brutal difficulty, 8-Bit always hated its players. Now that it's missing one of its guns, it's angrier than ever before.",
+        "attack": "Blaster Beams", "super": "Damage Booster", "health": 10000,
+        "model": "https://media.brawltime.ninja/brawlers/8-bit/model.webp?size=400"
+    },
+    "sandy": {
+        "name": "Sandy",
+        "rarity": "Legendary",
+        "year": 2019,
+        "scale": 0.57, "top": -110,
+        "description": "On the rare occasions Sandy wakes from his slumber, he tries to help his big sister Tara around their store. But it's never long before he falls asleep again.",
+        "attack": "Pebble Blast", "super": "Sandstorm", "health": 7600,
+        "model": "https://media.brawltime.ninja/brawlers/sandy/model.png?size=400"
+    },
+    "emz": {
+        "name": "Emz",
+        "rarity": "Epic",
+        "year": 2019,
+        "scale": 0.7, "top": -90, "left": 25,
+        "description": "Emz supposedly works for her uncle Mortis at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online.",
+        "attack": "Spray", "super": "Caustic Charisma", "health": 7200,
+        "model": "https://media.brawltime.ninja/brawlers/emz/model.png?size=400"
+    },
+    "bea": {
+        "name": "Bea",
+        "rarity": "Epic",
+        "year": 2019,
+        "scale": 0.57, "top": -110,
+        "description": "Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them... or even what it's like to be one.",
+        "attack": "Big Sting", "super": "Iron Hive", "health": 4800,
+        "model": "https://media.brawltime.ninja/brawlers/bea/model.png?size=400"
+    },
+    "max": {
+        "name": "Max",
+        "rarity": "Mythic",
+        "year": 2019,
+        "scale": 0.7, "top": -90, "left": 40,
+        "description": "Fuelled by energy drinks, Max speeds to the scene whenever someone needs help. She never sticks around long enough to do much... but she sure is fast!",
+        "attack": "Faster Blaster", "super": "Let's Go!", "health": 6000,
+        "model": "https://media.brawltime.ninja/brawlers/max/model.png?size=400"
+    },
+    "mr. p": {
+        "name": "Mr. P",
+        "rarity": "Mythic",
+        "year": 2020,
+        "scale": 0.55, "top": -105, "left": -65,
+        "description": "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!",
+        "attack": "Your Suitcase Sir!", "super": "Porters! Attack!", "health": 6800,
+        "model": "https://media.brawltime.ninja/brawlers/mr__p/model.png?size=400"
+    },
+    "jacky": {
+        "name": "Jacky",
+        "rarity": "Super Rare",
+        "year": 2020,
+        "scale": 0.68, "top": -85, "left": -10,
+        "description": "Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer",
+        "attack": "Groundbreaker", "super": "Holey Moley!", "health": 10000,
+        "model": "https://media.brawltime.ninja/brawlers/jacky/model.png?size=400"
+    },
+    "sprout": {
+        "name": "Sprout",
+        "rarity": "Mythic",
+        "year": 2020,
+        "scale": 0.52, "top": -110, "left": -125,
+        "description": "Sprout appears to be a cute gardening robot who helps Rosa around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!",
+        "attack": "Seed Bomb", "super": "Hedge", "health": 6000,
+        "model": "https://media.brawltime.ninja/brawlers/sprout/model.png?size=400"
+    },
+    "gale": {
+        "name": "Gale",
+        "rarity": "Epic",
+        "year": 2020,
+        "scale": 0.6, "top": -107, "left": -20,
+        "description": "Gale's job is to use his snowblower to clear the areas around Mr. P's Snowtel. Nobody mentioned anything about stopping when the guests were around...",
+        "attack": "Polar Vortex", "super": "Gale Force!", "health": 7600,
+        "model": "https://media.brawltime.ninja/brawlers/gale/model.png?size=400"
+    },
+    "nani": {
+        "name": "Nani",
+        "rarity": "Epic",
+        "year": 2020,
+        "scale": 0.45, "top": -120,
+        "description": "Originally a security camera, Nani was modified to keep an eye on Jessie. Unfortunately, she can hardly keep up with the precocious girl!",
+        "attack": "Trigger-Nometry", "super": "Manual Override", "health": 4800,
+        "model": "https://media.brawltime.ninja/brawlers/nani/model.png?size=400"
+    },
+    "surge": {
+        "name": "Surge",
+        "rarity": "Legendary",
+        "year": 2020,
+        "scale": 0.65, "top": -80, "left": -115,
+        "description": "Surge is a souped-up soda fountain, always ready to get the party started! He's got the beats, the moves, and an endless supply of energy drinks.",
+        "attack": "Juice of Justice", "super": "Party Tricks", "health": 6600,
+        "model": "https://media.brawltime.ninja/brawlers/surge/model.png?size=400"
+    },
+    "colette": {
+        "name": "Colette",
+        "rarity": "Epic",
+        "year": 2020,
+        "scale": 0.65, "top": -95,
+        "description": "Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes.",
+        "attack": "Taxing Shot", "super": "Time to Collect", "health": 6800,
+        "model": "https://media.brawltime.ninja/brawlers/colette/model.png?size=400"
+    },
+    "amber": {
+        "name": "Amber",
+        "rarity": "Legendary",
+        "year": 2020,
+        "scale": 0.72, "top": -85, "left": 55,
+        "description": "Amber brings the heat, literally! She's overconfident about her fire abilities despite being a bit of a klutz. With her, it's spectacle first, and safety last.",
+        "attack": "Dragon's Breath", "super": "Torch 'Em!", "health": 6400,
+        "model": "https://media.brawltime.ninja/brawlers/amber/model.png?size=400"
+    },
+    "lou": {
+        "name": "Lou",
+        "rarity": "Mythic",
+        "year": 2020,
+        "scale": 0.55, "top": -100, "left": -138,
+        "description": "Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that.",
+        "attack": "Brain Freeze", "super": "Can-Do", "health": 6400,
+        "model": "https://media.brawltime.ninja/brawlers/lou/model.png?size=400"
+    },
+    "byron": {
+        "name": "Byron",
+        "rarity": "Mythic",
+        "year": 2020,
+        "scale": 0.73, "top": -80, "left": 25,
+        "description": "Byron has invented many concoctions and tinctures that heal or harm in various ways.... but most of them fall into the harming category",
+        "attack": "Careful Dose", "super": "Full Treatment", "health": 4800,
+        "model": "https://media.brawltime.ninja/brawlers/byron/skins/Byron/Default.png?size=400"
+    },
+    "edgar": {
+        "name": "Edgar",
+        "rarity": "Epic",
+        "year": 2020,
+        "scale": 0.65, "top": -90, "left": 30,
+        "description": "Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal.",
+        "attack": "Fight Club", "super": "Vault", "health": 6600,
+        "model": "https://media.brawltime.ninja/brawlers/edgar/model.png?size=400"
+    },
+    "ruffs": {
+        "name": "Ruffs",
+        "rarity": "Mythic",
+        "year": 2021,
+        "scale": 0.6, "top": -105, "left": 15,
+        "description": "Ruffs is a loyal, highly disciplined space colonel who runs a tight ship and does everything by the book. But deep down, he just wants to be a good boy!",
+        "attack": "Double-Barrel Laser", "super": "Supply Drop", "health": 5600,
+        "model": "https://media.brawltime.ninja/brawlers/ruffs/model.png?size=400"
+    },
+    "stu": {
+        "name": "Stu",
+        "rarity": "Epic",
+        "year": 2021,
+        "scale": 0.63, "top": -95, "left": -40,
+        "description": "A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days.",
+        "attack": "Razzle Dazzle", "super": "Nitro Boost", "health": 5800,
+        "model": "https://media.brawltime.ninja/brawlers/stu/model.png?size=400"
+    },
+    "belle": {
+        "name": "Belle",
+        "rarity": "Epic",
+        "year": 2021,
+        "scale": 0.68, "top": -94, "left": -10,
+        "description": "The leader of the notorious Goldarm Gang, Belle is after more than money. She wants to find out the truth behind Starr Park and bring it down!",
+        "attack": "Shocker", "super": "Spotter", "health": 5200,
+        "model": "https://media.brawltime.ninja/brawlers/belle/model.png?size=400"
+    },
+    "squeak": {
+        "name": "Squeak",
+        "rarity": "Mythic",
+        "year": 2021,
+        "scale": 0.48, "top": -110,
+        "description": "Squeak is a blob of happy energy who loves his creator, Ruffs. He's a joy to be around, at least if you are unaware that he's made of dog slobber",
+        "attack": "Sticky Blomb", "super": "Big Blob", "health": 7200,
+        "model": "https://media.brawltime.ninja/brawlers/squeak/model.png?size=400"
+    },
+    "buzz": {
+        "name": "Buzz",
+        "rarity": "Epic",
+        "year": 2021,
+        "scale": 0.5, "top": -115,
+        "description": "Buzz is a lifeguard at the Velocirapids water park and a real stickler for the rules. He clearly enjoys wielding the tiny bit of authority he has to the greatest degree possible.",
+        "attack": "Buzz Off", "super": "Torpedo Throw", "health": 9600,
+        "model": "https://media.brawltime.ninja/brawlers/buzz/model.png?size=400"
+    },
+    "griff": {
+        "name": "Griff",
+        "rarity": "Epic",
+        "year": 2021,
+        "scale": 0.53, "top": -105, "left": -35,
+        "description": "Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls.",
+        "attack": "Coin Toss", "super": "Cashback", "health": 6800,
+        "model": "https://media.brawltime.ninja/brawlers/griff/model.png?size=400"
+    },
+    "ash": {
+        "name": "Ash",
+        "rarity": "Epic",
+        "year": 2021,
+        "scale": 0.57, "top": -100, "left": -170,
+        "description": "Ash has the thankless job of keeping the park clean. He's climbed into a trash can to protect himself from broken glass and rat bites. It makes him grumpy!",
+        "attack": "Clean-Up", "super": "Little Helpers", "health": 10800,
+        "model": "https://media.brawltime.ninja/brawlers/ash/model.png?size=400"
+    },
+    "meg": {
+        "name": "Meg",
+        "rarity": "Legendary",
+        "year": 2021,
+        "scale": 0.6, "top": -90, "left": 0,
+        "description": "Content to work behind the scenes with her trusty mecha suit, Meg takes care of real problems, while Max and Surge are out entertaining the crowds.",
+        "attack": "Target Acquired/Crowd Control", "super": "Mecha Machina/Feel the Steel", "health": "4600/7400",
+        "model": "https://media.brawltime.ninja/brawlers/meg/model.png?size=400"
+    },
+    "lola": {
+        "name": "Lola",
+        "rarity": "Epic",
+        "year": 2021,
+        "scale": 0.65, "top": -92,
+        "description": "Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!",
+        "attack": "Diamond Eyes", "super": "Megalomaniac", "health": 7600,
+        "model": "https://brawlstars.b-cdn.net/wp-content/uploads/2021/10/brawler-lola-win-pose-brawl-stars-tips.png"
+    },
+    "grom": {
+        "name": "Grom",
+        "rarity": "Epic",
+        "year": 2021,
+        "scale": 0.7, "top": -80,
+        "description": "Grom is a brawny security guard with one weak point: the flashback he gets from his time working at a kindergarten. Those kids are merciless.",
+        "attack": "Bud Go Boom!", "super": "Grom Bomb", "health": 5600,
+        "model": "https://media.brawltime.ninja/brawlers/grom/model.png?size=400"
+    },
+    "fang": {
+        "name": "Fang",
+        "rarity": "Mythic",
+        "year": 2022,
+        "scale": 0.7, "top": -85,
+        "description": "Fang has absorbed so many kung-fu movies he practically lives in one. He's confident, charming, and never uses his hands if he can kick instead!",
+        "attack": "Wu-Shoe", "super": "Sneak Ahead", "health": 8600,
+        "model": "https://media.brawltime.ninja/brawlers/fang/model.png?size=400"
+    },
+    "eve": {
+        "name": "Eve",
+        "rarity": "Mythic",
+        "year": 2022,
+        "scale": 0.5,
+        "description": "Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home... preferably in Ruffs' fur",
+        "attack": "Egg Shooter", "super": "Baby Boom", "health": 5800,
+        "model": "https://media.brawltime.ninja/brawlers/eve/model.png?size=400"
+    },
+    "janet": {
+        "name": "Janet",
+        "rarity": "Mythic",
+        "year": 2022,
+        "scale": 0.67, "top": -90, "left": 25,
+        "description": "Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister Bonnie, whenever she gets into trouble.",
+        "attack": "High Note", "super": "Crescendo", "health": 6400,
+        "model": "https://media.brawltime.ninja/brawlers/janet/model.png?size=400"
+    },
+    "bonnie": {
+        "name": "Bonnie",
+        "rarity": "Epic",
+        "year": 2022,
+        "scale": 0.57, "top": -100,
+        "description": "Bonnie is a bundle of uncontrollable and totally destructive energy. Her dream is to be fired from her cannon, all the way to the moon!",
+        "attack": "Loose Tooth/Bomber Jacket", "super": "Star Launcher/Clyde", "health": "9600/6000",
+        "model": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2022/04/brawler-epica-bonnie-do-brawl-stars.png"
+    },
+    "otis": {
+        "name": "Otis",
+        "rarity": "Mythic",
+        "year": 2022,
+        "scale": 0.55, "top": -115, "left": 0,
+        "description": "Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!",
+        "attack": "Inky Art", "super": "Silent Seabed", "health": 6400,
+        "model": "https://media.brawltime.ninja/brawlers/otis/model.png?size=400"
+    },
+    "sam": {
+        "name": "Sam",
+        "rarity": "Epic",
+        "year": 2022,
+        "scale": 0.65, "top": -95,
+        "description": "A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure Belle doesn't go too far on their latest heist!",
+        "attack": "Heavy Haymakers", "super": "Knuckle Busters", "health": 10800,
+        "model": "https://media.brawltime.ninja/brawlers/sam/model.png?size=400"
+    },
+    "gus": {
+        "name": "Gus",
+        "rarity": "Super Rare",
+        "year": 2022,
+        "scale": 0.85, "top": -170, "left": 43,
+        "description": "Gus looks so much like a ghost child that he's often mistaken for one. Perhaps fittingly, he's an enthusiast of all things Supernatural, since he's too innocent to be scared.",
+        "attack": "Loony Balloons", "super": "Spooky Boy", "health": 6400,
+        "model": "https://media.brawltime.ninja/brawlers/gus/model.png?size=400"
+    },
+    "buster": {
+        "name": "Buster",
+        "rarity": "Mythic",
+        "year": 2022,
+        "scale": 0.7, "top": -80,
+        "description": "Buster took a film projector from the movie theater where he works so he can play around with it like a prop. It's dangerous and highly unprofessional!",
+        "attack": "Lens Flare", "super": "Montage", "health": 10400,
+        "model": "https://media.brawltime.ninja/brawlers/buster/model.png?size=400"
+    },
+    "chester": {
+        "name": "Chester",
+        "rarity": "Legendary",
+        "year": 2022,
+        "scale": 0.7, "top": -80,
+        "description": "Chester makes vicious fun of anyone in sight, trying to get under their skin. The more hate he gets, the better... especially if that hater is Mandy!",
+        "attack": "Cap and Bells", "super": "Jack in the Box", "health": 7400,
+        "model": "https://media.brawltime.ninja/brawlers/chester/model.png?size=400"
+    },
+    "gray": {
+        "name": "Gray",
+        "rarity": "Mythic",
+        "year": 2022,
+        "scale": 0.7, "top": -80, "left": -15,
+        "description": "Gray styles himself as a character in an old silent film. He takes the act seriously but sometimes forgets to keep his mouth shut when doing finger bullets.",
+        "attack": "Finger Pistol", "super": "Dimensional Doors", "health": 6600,
+        "model": "https://media.brawltime.ninja/brawlers/gray/model.png?size=400"
+    },
+    "mandy": {
+        "name": "Mandy",
+        "rarity": "Epic",
+        "year": 2023,
+        "scale": 0.7, "top": -80,
+        "description": "Mandy runs a candy store where she dresses in costume and doles out sweet treats. She's a little too into the act and rules her candy kingdom with an iron fist.",
+        "attack": "Candy Dispenser", "super": "Sugar Ray", "health": 5600,
+        "model": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2022/12/brawler-mandy-brawl-stars-render.png"
+    },
+    "r-t": {
+        "name": "R-T",
+        "rarity": "Mythic",
+        "year": 2023,
+        "scale": 0.45, "top": -110, "left": -150,
+        "description": "R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course.",
+        "attack": "", "super": "", "health": 0,
+        "model": "https://media.brawltime.ninja/brawlers/r-t/model.png?size=400"
+    },
+    "willow": {
+        "name": "Willow",
+        "rarity": "Mythic",
+        "year": 2023,
+        "scale": 0.65, "top": -90, "left": 0,
+        "description": "Willow works as gondoliera in the Love Swamp. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine.",
+        "attack": "Lantern's Curse", "super": "Hex", "health": 5600,
+        "model": "https://media.brawltime.ninja/brawlers/willow/model.png?size=400"
+    },
+    "maisie": {
+        "name": "Maisie",
+        "rarity": "Epic",
+        "year": 2023,
+        "scale": 0.65, "top": -90, "left": -45,
+        "description": "Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them.",
+        "attack": "Pressure Rocket", "super": "Shockwave", "health": 7200,
+        "model": "https://brawlstar.b-cdn.net/wp-content/uploads/2023/04/novo-brawler-maisie-3d-brawl-stars-dicas.png"
+    },
+    "hank": {
+        "name": "Hank",
+        "rarity": "Epic",
+        "year": 2023,
+        "scale": 0.7, "top": -70,
+        "description": "Hank is a one-shrimp, one-tank army on a mission to liberate sea life from kitchens and markets everywhere. Chefs, consider yourselves on notice!",
+        "attack": "Balloon Blast", "super": "Fish Torpedo", "health": 11600,
+        "model": "https://media.brawltime.ninja/brawlers/hank/model.png?size=400"
+    },
+    "cordelius": {
+        "name": "Cordelius",
+        "rarity": "Legendary",
+        "year": 2023,
+        "scale": 0.47, "top": -110,
+        "description": "Gardener and caretaker of Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.",
+        "attack": "Mushrooms", "super": "This Is My Domain", "health": 6400,
+        "model": "https://media.brawltime.ninja/brawlers/cordelius/model.png?size=400"
+    },
+    "doug": {
+        "name": "Doug",
+        "rarity": "Mythic",
+        "year": 2023,
+        "scale": 0.65, "top": -90, "left": 20,
+        "description": "Doug's hot dogs will extend your friends' shelf life.",
+        "attack": "Snack Attack", "super": "Second Serving", "health": 10000,
+        "model": "https://media.brawltime.ninja/brawlers/doug/model.png?size=400"
+    },
+    "pearl": {
+        "name": "Pearl",
+        "rarity": "Epic",
+        "year": 2023,
+        "scale": 0.65, "top": -90, "left": -160,
+        "description": "Against all odds, Pearl found her way into Belle's and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?",
+        "attack": "Hot Cookies", "super": "Let Out Some Steam", "health": 7800,
+        "model": "https://media.brawltime.ninja/brawlers/pearl/model.png?size=400"
+    },
+    "chuck": {
+        "name": "Chuck",
+        "rarity": "Mythic",
+        "year": 2023,
+        "scale": 0.7, "top": -80,
+        "description": "Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!",
+        "attack": "Steam Engine", "super": "Choo-Choo!", "health": 9000,
+        "model": "https://media.brawltime.ninja/brawlers/chuck/skins/Chuck/Default.png?size=400"
+    },
+    "charlie": {
+        "name": "Charlie",
+        "rarity": "Mythic",
+        "year": 2023,
+        "scale": 0.65, "top": -90, "left": -10,
+        "description": "Itsy bitsy Charlie<br>Put on a crazy show<br>She let down her hair<br>And made off with all your dough<br>In came the crowd<br>It filled up the circus tent<br>So Charlie weaved away while<br>Taking every cent!",
+        "attack": "Yo-yo", "super": "Cocoon", "health": 6600,
+        "model": "https://media.brawltime.ninja/brawlers/charlie/model.png?size=400"
+    },
+    "mico": {
+        "name": "Mico",
+        "rarity": "Mythic",
+        "year": 2023,
+        "scale": 0.6, "top": -95, "left": -70,
+        "description": "Mico is the sound guy in Brawlywood, but one could be forgiven for thinking he's actually a celebrity given all the bragging and name-dropping. Hot-tempered and unstable, he cannot take a joke. Don't ever call him funny...",
+        "attack": "Mic BOOM!", "super": "Out of Frame", "health": 6000,
+        "model": "https://media.brawltime.ninja/brawlers/mico/model.png?size=400"
+    },
+    "kit": {
+        "name": "Kit",
+        "rarity": "Legendary",
+        "year": 2024,
+        "scale": 0.55, "top": -100,
+        "description": "Stuck giving autographs to his rabid fans at Starr Toon Studios, cartoony superstar Kit often daydreams of becoming relevant in the industry again, respected for his acting chops rather than his looks.",
+        "attack": "Claws/Yarn Balls", "super": "Carry Me", "health": 6000,
+        "model": "https://media.brawltime.ninja/brawlers/kit/model.png?size=400"
+    },
+    "larry & lawrie": {
+        "name": "Larry & Lawrie",
+        "rarity": "Epic",
+        "year": 2024,
+        "scale": 0.55, "top": -107, "left": -150,
+        "description": "Larry sells tickets to Starr Park visitors under the watchful eye of his twin, Lawrie. Larry loves rules, they make life easier! Lawrie doesn't love rules so much as enforcing them. They make a good team.",
+        "attack": "Ticket Dispenser", "super": "Call For Backup", "health": "6000/6000",
+        "model": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2023/12/twins-brawlers-wiki-larry-and-lawrie.png"
+    },
+    "angelo": {
+        "name": "Angelo",
+        "rarity": "Epic",
+        "year": 2024,
+        "scale": 0.85, "top": -105,
+        "description": "Angelo is the Love Swamp's resident cupid-turned-mosquito. He buzzes around the canals looking for lovebirds to dazzle with his irresistible charm, even if those require a little extra, pointy incentive.",
+        "attack": "Take Aim", "super": "Welcome to the Swamp", "health": 6000,
+        "model": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2024/02/angelo-brawl-stars-skin-padrao.png"
+    },
+    "melodie": {
+        "name": "Melodie",
+        "rarity": "Mythic",
+        "year": 2024,
+        "scale": 0.7, "top": -85, "left": -90,
+        "description": "When it comes to Karaoke, Melodie shows no mercy. Armed with her kawaii looks and devilish set of pipes, she never fails to steal the limelight.",
+        "attack": "Monster Notes", "super": "Catchy Chorus", "health": 8200,
+        "model": "https://preview.redd.it/i-was-bored-so-i-made-little-changes-to-melodie-v0-1gyf7u0pvmkc1.png?width=640&crop=smart&auto=webp&s=a9fbdb6de8dc5ddaaf84d0a190c62746c643d613"
+    }
+}
