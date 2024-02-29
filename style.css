@@ -11,9 +11,10 @@ body {
     flex-direction: column;
     gap: 60px;
     font-family: "Lilita One";
-    margin: 30px;
-    margin-top: 60px;
-    margin-bottom: 130px;
+    height: 0;
+    scale: 0.5;
+    margin: -300px;
+    margin-top: 30px;
 }
 
 .buttons {
@@ -46,6 +47,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     gap: 30px;
+    padding-bottom: 110px;
 }
 
 .column {
@@ -78,10 +80,6 @@ body {
     border: 3px solid gray;
     display: flex;
     flex-direction: column;
-}
-
-.info-panel {
-    border-radius: 20px;
 }
 
 .info-panel-splash {
